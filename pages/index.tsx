@@ -1,3 +1,3 @@
 import React from "react";
 
-export default () => <div></div>;
+export default () => <div>Hi NextJS SWR 시작!</div>;
